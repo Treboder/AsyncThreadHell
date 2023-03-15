@@ -1,5 +1,6 @@
 # Introduction
 This project demonstrates different approaches to Threading, including JobRunr as one of the options.
+Beyond basic examples. the project shows a two-layered-approach with multiple threaded subtasks.
 The Spring Boot App exposes endpoints to trigger concurrent jobs and check the status.
 
 # Application Entry Points
